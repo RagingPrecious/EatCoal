@@ -1,11 +1,31 @@
-[15:15:27] [main/INFO]: Setting user: Player0
-[15:15:28] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:15:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Eat Coal
-[15:15:35] [Sound Library Loader/INFO]: Sound engine started
-[15:15:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:15:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:15:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Eat Coal
-[15:15:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:15:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:15:38] [Sound Library Loader/INFO]: Sound engine started
-[15:16:03] [Client thread/INFO]: Stopping!
+[00:45:48] [main/INFO]: Setting user: Player0
+[00:45:49] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:45:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Eat Coal
+[00:45:54] [Sound Library Loader/INFO]: Sound engine started
+[00:45:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:45:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:45:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Eat Coal
+[00:45:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:45:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:45:57] [Sound Library Loader/INFO]: Sound engine started
+[00:46:03] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:46:03] [Server thread/INFO]: Generating keypair
+[00:46:03] [Server thread/INFO]: Preparing start region for level 0
+[00:46:04] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:46:05] [Server thread/INFO]: Player0[local:E:d9f1fdd6] logged in with entity id 404 at (141.7357342040988, 100.0, 302.68918736965344)
+[00:46:05] [Server thread/INFO]: Player0 joined the game
+[00:46:06] [Server thread/INFO]: Saving and pausing game...
+[00:46:06] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[00:46:06] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[00:46:06] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[00:46:14] [Server thread/INFO]: Saving and pausing game...
+[00:46:14] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[00:46:14] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[00:46:14] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[00:46:14] [Server thread/INFO]: Stopping server
+[00:46:14] [Server thread/INFO]: Saving players
+[00:46:14] [Server thread/INFO]: Saving worlds
+[00:46:14] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[00:46:14] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[00:46:14] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[00:46:16] [Client thread/INFO]: Stopping!

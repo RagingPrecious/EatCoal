@@ -1,6 +1,8 @@
 package com.cloobs.eatcoal;
 
 import com.cloobs.eatcoal.handler.ConfigurationHandler;
+import com.cloobs.eatcoal.init.ModBlocks;
+import com.cloobs.eatcoal.init.ModItems;
 import com.cloobs.eatcoal.reference.Reference;
 import com.cloobs.eatcoal.utility.LogHelper;
 import cpw.mods.fml.common.Mod;
@@ -20,6 +22,9 @@ public class EatCoal
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         LogHelper.info("Pre-Initialization complete! ");
+
+        ModItems.init();
+        ModBlocks.init();
     }
 
     @Mod.EventHandler
