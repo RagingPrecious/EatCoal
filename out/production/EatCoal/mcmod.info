@@ -1,0 +1,21 @@
+[
+{
+  "modid": "EatCoal",
+  "name": "Eat Coal",
+  "description": "Create and eat your own tasty coal!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Cloobs"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
